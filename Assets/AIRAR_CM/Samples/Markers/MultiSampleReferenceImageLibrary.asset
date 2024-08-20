@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: MultiSampleReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5601469027268829809
+  m_GuidHigh: 5332404864604043430
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5317569756071279513
+      m_GuidHigh: 13117993220647010949
+    m_SerializedTextureGuid:
+      m_GuidLow: 4149187058426838261
+      m_GuidHigh: 16008375297519540651
+    m_Size: {x: 1, y: 1.294}
+    m_SpecifySize: 1
+    m_Name: m-color-01
+    m_Texture: {fileID: 2800000, guid: 742dfcf5dfa53994ab59ca5f842c29de, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5339574336283732142
+      m_GuidHigh: 8466732008747094691
+    m_SerializedTextureGuid:
+      m_GuidLow: 9175214683773421625
+      m_GuidHigh: 8185586610487693930
+    m_Size: {x: 1, y: 1.294}
+    m_SpecifySize: 1
+    m_Name: m-color-02
+    m_Texture: {fileID: 2800000, guid: 7c434839e9247f546a125034a70b9971, type: 3}

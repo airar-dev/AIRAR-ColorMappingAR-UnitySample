@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/AIRAR_CM/Samples/Scenes/1.MainScene.unity
+    guid: 3376f42fd67c0a5429d69a870513d4a8
+  - enabled: 1
+    path: Assets/AIRAR_CM/Samples/Scenes/2.Single3DColoringSample.unity
+    guid: b6cf1f6fafa79414ca0042489ab60a19
+  - enabled: 1
+    path: Assets/AIRAR_CM/Samples/Scenes/3.Multi3DColoringSample.unity
+    guid: 0598c71ac5313eb4c87738f8b6a6e05c
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 5232bbed857cda24989da5ed44e76c33, type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 25698986637b52d46a863a772b15fd55, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: c0e01a3b22e5c2947a50afd3ebd735d0, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 4960d960d9914d04694a2fdd04ae3bd0, type: 2}
+  m_UseUCBPForAssetBundles: 0
