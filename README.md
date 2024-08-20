@@ -11,16 +11,17 @@
     This project is a sample of the AIRAR-CM package. <br />
     This is a Unity project, and it uses ARFoundation. <br />
     It also supports URP. <br /><br />
-    <a href="https://youtube.com/shorts/Altj8SoIQEw?feature=share" target="_blank">View Demo</a> <br /><br />
+    <a href="https://youtube.com/shorts/lYUXs7PsM3g?feature=shared" target="_blank">View Demo</a> <br /><br />
     
- <p align="center">
-  <a href="https://youtu.be/HaN_d2eDf2Q" rel="nofollow">
-  <img src="http://airar.co.kr/ColorMapping/Img/Default/airar_cm_demo_1.gif" alt="demo video" style="max-width:100%;">
-  </a>
- </p>
-    
-  </p>
-</p>
+ <table align="center">
+  <tr>
+    <td>
+      <a href="https://youtube.com/shorts/lYUXs7PsM3g?feature=share" rel="nofollow">
+        <img src="http://airar.co.kr/ColorMapping/Img/Default/airar_cm_demo_2.gif" alt="demo">
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br />
 
