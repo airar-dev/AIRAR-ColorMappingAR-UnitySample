@@ -45,8 +45,8 @@
 
 ## Quick Start
 
-  **Create Android App Project Demo(https://youtu.be/JhixOsRKQ5k)**<br />
-  **Create iOS App Project Demo(https://youtu.be/h3YQMaf7R-E)**<br /><br />
+  **Create Android App Project Demo(https://youtu.be/pjDla8z-ORA?feature=shared)**<br />
+  **Create iOS App Project Demo(https://youtu.be/lHyW9rD6I-Q?feature=shared)**<br /><br />
   
   **1. Download Sample Project.** <br /> <br />
   
