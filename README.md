@@ -81,7 +81,7 @@
 ## Release
 | Version | New Features | Date |
 |:---:|---|:---:|
-| v1.0.0 | [Apply MaxstAR, EasyAR](https://github.com/airar-dev/Unity-AR-ColorMapping/releases/tag/v1.0.0) | 2020.09.09 |
+| v1.0.0 | [AIRAR-CM-Sample-v1.0.0-20240820](https://github.com/airar-dev/AIRAR-ColorMappingAR-UnitySample/releases/tag/1.0.0) | 2024.08.20 |
 
 <br />
 
