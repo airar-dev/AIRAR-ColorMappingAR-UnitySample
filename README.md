@@ -50,7 +50,7 @@
   
   **1. Download Sample Project.** <br /> <br />
   
-  **2. Import AIRAR_CM Package(Will be distributed to the Asset Store in the future)** <br /> 
+  **2. Import AIRAR_CM Package(Coming soon to the Asset Store(https://assetstore.unity.com/packages/slug/293999))** <br /> 
   -　Import files from the Plugins folder. <br /> <br />
   
   **3. Player Settings for Android**
